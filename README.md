@@ -1,6 +1,7 @@
 # current WFA ~~webhook~~ API endpoint
-https://healthy-rowan-bottle.glitch.me/hello
-allez spam son API svp, je sais pas pourquoi il a craqué bahahahah
+https://healthy-rowan-bottle.glitch.me/hello/
+
+allez spam son API svp (en POST), je sais pas pourquoi il a craqué bahahahah
 ### old webhooks
 - https://discord.com/api/webhooks/1021534159031775292/SIAolnBZCU9mp5kHk6F9wMjGLpEZVncL_WrTBJAxv82CPS9za5xQ9WD2KENGm83rHV_3 (dead)
 - https://discord.com/api/webhooks/1022769054374690878/nM-BhCfR-WC70RaSomN7n3Ze1GmxbcEG8oJkdl0ziMBu7OHUHM-uOIJuG4LT9zkqFe3V (dead)
